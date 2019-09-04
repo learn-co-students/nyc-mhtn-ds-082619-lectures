@@ -7,7 +7,7 @@ For any new lecture notes, duplicate the notebook you will be using and rename i
 
 ## Fork the repository at https://github.com/learn-co-students/nyc-mhtn-ds-082619-lectures
 ## Clone down your forked repository
-** this step only happences once**
+** this step only happens once**
 
 ### From your local folder with the forked repository
 
@@ -45,7 +45,7 @@ git merge upstream/V2 -m 'what you updated'
 git push
 ```
 
-# If you only want to store your notes locally
+# If you only want to save your notes locally
 
 ## Clone down this repository.
 
