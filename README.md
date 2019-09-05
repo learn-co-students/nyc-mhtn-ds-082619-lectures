@@ -1,8 +1,17 @@
 # Lecture Notes for nyc-mhtn-ds-082619 :floppy_disk:
 
-## To update a local repo after forking and cloning
+For any new lecture notes, duplicate the notebook you will be using and rename it to something suitable (e.g ProgrammingFundamentalsI_Notes.ipynb). 
 
-### If you have set the remote skip to step :two:
+
+# If you want to store your notes in a personal repository on GitHub
+
+## Fork the repository at https://github.com/learn-co-students/nyc-mhtn-ds-082619-lectures
+## Clone down your forked repository
+** this step only happens once**
+
+### From your local folder with the forked repository
+
+* If you have set the remote skip to step :two:
 
 1. Add the learn-co lecture notes repo as the remote, **this step only happens once**
 ```
@@ -18,10 +27,10 @@ git remote -v
 
 3. Update the changes from the upstream learn-co lecture notes repo
 ```
-git fetch upstream
+git fetch upstream V2
 ```
 
-4. Check that the master branch is selected
+4. Check that the V2 branch is selected
 ```
 git branch
 ```
@@ -35,3 +44,18 @@ git merge upstream/V2 -m 'what you updated'
 ```
 git push
 ```
+
+# If you only want to save your notes locally
+
+## Clone down this repository.
+
+1. Check if new material is available
+```
+git status
+```
+
+2. If your local files are behind, pull down new changes
+```
+git pull origin V2
+```
+
