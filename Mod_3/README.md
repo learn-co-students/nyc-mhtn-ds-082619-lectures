@@ -11,3 +11,5 @@
 [- Hypothesis Testing 1: Experimental Design](https://docs.google.com/presentation/d/1pAvRENMoBcJEmVyW33siqw-DIp5l7Uk1iGbLi6B7b38/edit#slide=id.ge62ba7c8e_0_0)
 
 [- Hypothesis Testing 2: Sampling](https://docs.google.com/presentation/d/1kaX-n_-h--NUPiU6Y0uSkQXocM_FX9qW-GnmKNG0oRA/edit#slide=id.g462e5d8719_0_22)
+
+[- Bayesian Statistics 1](https://docs.google.com/presentation/d/1OFwHNh9pJK5iT7cBog0aQfAylutTSqCiRKSeDqkAQ_Y/edit#slide=id.g4ffdd745df_0_105)
