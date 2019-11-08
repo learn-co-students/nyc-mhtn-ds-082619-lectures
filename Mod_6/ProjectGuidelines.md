@@ -2,12 +2,13 @@
 
 ## Deep Learning and Advanced Topics
 
-In module 6, we covered unsupervised learning, time series, recommender systems and deep learning. We'll have a presentation in class where you will be presenting to your fellow Data Scientists!
+In module 6, we covered unsupervised learning, NLP, time series, recommender systems and deep learning. We'll have a presentation in class where you will be presenting to your fellow Data Scientists!
 
 Your project must be focused on one of the following topics:
 
 
 * Time Series
+* Natural Language Processing
 * Recommendation Systems
 * Clustering
 * Deep Neural Networks
